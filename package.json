@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-winniepukki-guardian",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package provides winniepukki guardian .eslintrc as an extensible shared config",
   "main": "lib/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "eslint-plugin"
   ],
   "author": "Aleksandrs Bogackins <a.bogackins@gmail.com>",
-  "license": "ISC",
+  "license": "OSL-3.0",
   "bugs": {
     "url": "https://github.com/winniepukki/guardian/issues"
   },
