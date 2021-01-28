@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-winniepukki-guardian",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This package provides winniepukki guardian .eslintrc as an extensible shared config",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
