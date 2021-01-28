@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-winniepukki-guardian",
+  "version": "0.0.1",
+  "description": "This package provides winniepukki guardian .eslintrc as an extensible shared config",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winniepukki/guardian.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Aleksandrs Bogackins <a.bogackins@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winniepukki/guardian/issues"
+  },
+  "homepage": "https://github.com/winniepukki/guardian#readme",
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  }
+}
