@@ -16,6 +16,11 @@ npm i -D eslint-config-winniepukki-guardian
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-config-winniepukki-guardian` globally.
 
+3. Install peer dependencies
+```bash
+npm i eslint-config-airbnb eslint-plugin-react
+```
+
 ## Usage
 
 Add the following code to your `package.json`
