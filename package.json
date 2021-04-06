@@ -1,10 +1,10 @@
 {
   "name": "eslint-config-winniepukki-guardian",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package provides winniepukki guardian .eslintrc as an extensible shared config",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "cd tests/lib && jest"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/winniepukki/guardian#readme",
   "devDependencies": {
-    "eslint": "^7.18.0"
+    "eslint": "^7.18.0",
+    "jest": "^26.6.3"
   },
   "dependencies": {
     "eslint-config-airbnb": "^18.2.1"
