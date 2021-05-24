@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-winniepukki-guardian",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "This package provides winniepukki guardian .eslintrc as an extensible shared config",
   "main": "index.js",
   "scripts": {
